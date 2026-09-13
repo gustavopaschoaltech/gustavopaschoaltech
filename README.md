@@ -15,7 +15,6 @@ and turn ideas into working solutions.
 - Web applications and backend systems
 - Cloud computing
 - SaaS products
-- Python and PHP
 - Automation
 - Open-source software
 
